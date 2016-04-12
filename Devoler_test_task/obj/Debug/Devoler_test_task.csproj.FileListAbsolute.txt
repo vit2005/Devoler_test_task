@@ -1,0 +1,14 @@
+c:\users\vit\documents\visual studio 2015\Projects\Devoler_test_task\Devoler_test_task\bin\Debug\Devoler_test_task.exe.config
+C:\Users\Vit\documents\visual studio 2015\Projects\Devoler_test_task\Devoler_test_task\bin\Debug\Devoler_test_task.exe
+C:\Users\Vit\documents\visual studio 2015\Projects\Devoler_test_task\Devoler_test_task\bin\Debug\Devoler_test_task.pdb
+C:\Users\Vit\documents\visual studio 2015\Projects\Devoler_test_task\Devoler_test_task\obj\Debug\Devoler_test_task.csprojResolveAssemblyReference.cache
+C:\Users\Vit\documents\visual studio 2015\Projects\Devoler_test_task\Devoler_test_task\obj\Debug\MainWindow.g.cs
+C:\Users\Vit\documents\visual studio 2015\Projects\Devoler_test_task\Devoler_test_task\obj\Debug\App.g.cs
+C:\Users\Vit\documents\visual studio 2015\Projects\Devoler_test_task\Devoler_test_task\obj\Debug\Devoler_test_task_MarkupCompile.cache
+C:\Users\Vit\documents\visual studio 2015\Projects\Devoler_test_task\Devoler_test_task\obj\Debug\Devoler_test_task_MarkupCompile.lref
+C:\Users\Vit\documents\visual studio 2015\Projects\Devoler_test_task\Devoler_test_task\obj\Debug\MainWindow.baml
+C:\Users\Vit\documents\visual studio 2015\Projects\Devoler_test_task\Devoler_test_task\obj\Debug\Devoler_test_task.g.resources
+C:\Users\Vit\documents\visual studio 2015\Projects\Devoler_test_task\Devoler_test_task\obj\Debug\Devoler_test_task.Properties.Resources.resources
+C:\Users\Vit\documents\visual studio 2015\Projects\Devoler_test_task\Devoler_test_task\obj\Debug\Devoler_test_task.csproj.GenerateResource.Cache
+C:\Users\Vit\documents\visual studio 2015\Projects\Devoler_test_task\Devoler_test_task\obj\Debug\Devoler_test_task.exe
+C:\Users\Vit\documents\visual studio 2015\Projects\Devoler_test_task\Devoler_test_task\obj\Debug\Devoler_test_task.pdb
